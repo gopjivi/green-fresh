@@ -127,7 +127,7 @@
 .card-design
 {
     width: 16rem;
-    height: 400px;
+    height: 450px;
     border:1px solid  rgb(18,48,38);
 }
 
@@ -143,6 +143,23 @@
     text-decoration: none;
     color:green;
 }
+
+.txt-green
+{
+    color:green;
+}
+
+#customRange::-webkit-slider-thumb {
+    background: green;
+  }
+  
+  #customRange::-moz-range-thumb {
+    background: green;
+  }
+  
+  #customRange::-ms-thumb {
+    background: green;
+  }
 /*
 .card{
     border-radius: 4px;
