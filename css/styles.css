@@ -214,3 +214,11 @@ input[type="radio"]:checked
     background-color: green;
     border-color:green;
 }
+
+/*Login page*/
+
+@media only screen and (max-width: 600px) {
+    .div-loginimage{
+       display:none;
+    }
+}
