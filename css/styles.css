@@ -198,6 +198,11 @@ background:url('../images/fruitbanner2.jpeg') no-repeat fixed;
     {
 margin-bottom: 10px;
     }
+    .filterby
+    {
+        display: none;
+    }
+    
 }
 
 
@@ -220,6 +225,11 @@ input[type="radio"]:checked
     border-color:green;
 }
 
+input[type="checkbox"]:checked
+{
+    background-color: green;
+    border-color:green;
+}
 /*Login page*/
 
 @media only screen and (max-width: 600px) {
