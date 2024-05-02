@@ -237,3 +237,15 @@ input[type="checkbox"]:checked
        display:none;
     }
 }
+
+/*Check out page*/
+
+.table-imgwidth
+{
+    width:150px;;
+}
+.last-row
+{
+    text-align: right;
+    font-weight: bold;
+}
