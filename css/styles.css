@@ -193,6 +193,11 @@ background:url('../images/fruitbanner2.jpeg') no-repeat fixed;
     .jumbotron {
       display: none;
     }
+
+    .card-design
+    {
+margin-bottom: 10px;
+    }
 }
 
 
