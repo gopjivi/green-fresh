@@ -116,7 +116,7 @@
 
 .carousel-item{
     height: 500px;
-    weight:100%;
+    width:100%;
 }
 .carousel-item img {
     height: 100%;
