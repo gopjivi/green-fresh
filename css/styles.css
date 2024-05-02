@@ -249,3 +249,31 @@ input[type="checkbox"]:checked
     text-align: right;
     font-weight: bold;
 }
+
+/*changing input focus border*/
+
+input[type=text]:focus{
+    outline: 2px solid green;     
+    border: 1px solid green;  
+}
+
+  input[type=number]:focus{
+    outline: 2px solid green;     
+    border: 1px solid green;  
+  }
+
+  input[type=email]:focus{
+    outline: 2px solid green;     
+    border: 1px solid green;      
+  }
+  input[type=password]:focus{
+    outline: 2px solid green;     
+    border: 1px solid green;      
+  }
+
+  @media screen and (max-width: 600px) {
+    .cart-list {
+      display: none;
+    }
+}
+ 
