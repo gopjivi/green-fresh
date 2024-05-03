@@ -276,4 +276,5 @@ input[type=text]:focus{
       display: none;
     }
 }
- 
+
+.navbar-nav > li > .dropdown-menu { background-color: #ddd; }
