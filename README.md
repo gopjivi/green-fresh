@@ -11,24 +11,20 @@ Here i used  Bootstrap jumbotron,cards,banner to give look and feel for this web
 
 Index Page
 
-![alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/karpagam/Documents/Green-Fresh/green-fresh/images/indexpage1.png?version%3D1715086946119)
-![alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/karpagam/Documents/Green-Fresh/green-fresh/images/indexpage2.png?version%3D1715086979478)
+<img width="1512" alt="indexpage1" src="https://github.com/karpagam-sg/green-fresh/assets/167175240/c27f55df-7b04-4d45-93a9-dcb62f96d522">
+
 
 Products Page
 
+<img width="1512" alt="productspage1" src="https://github.com/karpagam-sg/green-fresh/assets/167175240/cc842c57-dcd7-407d-b64d-08c8fcebf939">
 
-![alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/karpagam/Documents/Green-Fresh/green-fresh/images/productspage1.png?version%3D1715142035414)
-
-![alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/karpagam/Documents/Green-Fresh/green-fresh/images/productspage2.png?version%3D1715142074134)
 
 Login Page
+<img width="1512" alt="loginpage" src="https://github.com/karpagam-sg/green-fresh/assets/167175240/7454d56a-07e3-4fa4-b664-f81502bf332d">
 
-![alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/karpagam/Documents/Green-Fresh/green-fresh/images/loginpage.png?version%3D1715142104639)
 
 Sign Up page
-
-![alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/karpagam/Documents/Green-Fresh/green-fresh/images/signup_page.png?version%3D1715142124374)
+<img width="1512" alt="signup_page" src="https://github.com/karpagam-sg/green-fresh/assets/167175240/258b3142-005e-4930-b61a-d3cb282f23d9">
 
 Checkout page
-
-![alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/karpagam/Documents/Green-Fresh/green-fresh/images/checkoutpage.png?version%3D1715142219215)
+<img width="1512" alt="checkoutpage" src="https://github.com/karpagam-sg/green-fresh/assets/167175240/3f90a2a7-6969-4abc-aca4-cd8058a9baf2">
